@@ -76,7 +76,7 @@
     "core-js": "^3.8.1",
     "file-saver": "^2.0.5",
     "fscreen": "^1.1.0",
-    "marked": "^1.2.6",
+    "marked": "^2.0.0",
     "ngx-color": "^6.2.0",
     "ngx-markdown": "^11.0.1",
     "ngx-socket-io": "^3.2.0",
